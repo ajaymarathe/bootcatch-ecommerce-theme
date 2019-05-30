@@ -1,11 +1,11 @@
 # bootcatch-ecommerce-theme
 Bootcatch-ecommerce-theme is a ecommerce theme based on bootstrap for bootstrap lover's - created by Bootcatch team.
 
-### first-shot
-[![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog.png)](http://preview.bootcatch.com/bootstrap-simple-blog/)
+<!-- ### first-shot
+[![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog.png)](http://preview.bootcatch.com/bootstrap-simple-blog/) -->
 
-### second shot
-[![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog-post.png)](http://preview.bootcatch.com/bootstrap-simple-blog/)
+<!-- ### second shot
+[![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog-post.png)](http://preview.bootcatch.com/bootstrap-simple-blog/) -->
 
 
 ## About
