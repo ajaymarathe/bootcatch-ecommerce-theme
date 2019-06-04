@@ -4,7 +4,7 @@ Bootcatch-ecommerce-theme is a ecommerce theme based on bootstrap for bootstrap 
 ### first-shot
 [![bootstrap simple blog](http://preview.bootcatch.com/bootcatch-ecommerce-theme/img/ecommerce1.png)](http://preview.bootcatch.com/bootcatch-ecommerce-theme/)
 
-### first-shot
+### second-shot
 [![bootstrap simple blog](http://preview.bootcatch.com/bootcatch-ecommerce-theme/img/ecommerce2.png)](http://preview.bootcatch.com/bootcatch-ecommerce-theme/index2.html)
 
 ## About
