@@ -7,7 +7,6 @@ Bootcatch-ecommerce-theme is a ecommerce theme based on bootstrap for bootstrap 
 ### first-shot
 [![bootstrap simple blog](http://preview.bootcatch.com/bootcatch-ecommerce-theme/img/ecommerce2.png)](http://preview.bootcatch.com/bootcatch-ecommerce-theme/index2.html)
 
-
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
