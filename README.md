@@ -2,7 +2,7 @@
 Bootcatch-ecommerce-theme is a ecommerce theme based on bootstrap for bootstrap lover's - created by Bootcatch team.
 
 ### first-shot
-[![bootstrap simple blog](http://preview.bootcatch.com/bootcatch-ecommerce-theme/img/ecommerce1.png)](https://ajaymarathe.github.io/bootcatch-ecommerce-theme/index)
+[![bootstrap simple blog](https://raw.githubusercontent.com/ajaymarathe/bootcatch-ecommerce-theme/master/img/ecommerce1.png)](https://ajaymarathe.github.io/bootcatch-ecommerce-theme/index)
 
 ### second-shot
 [![bootstrap simple blog](https://raw.githubusercontent.com/ajaymarathe/bootcatch-ecommerce-theme/master/img/ecommerce2.png)](https://ajaymarathe.github.io/bootcatch-ecommerce-theme/index2.html)
